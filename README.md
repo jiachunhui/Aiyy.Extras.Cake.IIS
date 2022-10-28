@@ -1,5 +1,8 @@
 # Aiyy.Extras.Cake.IIS
 
+> 引用 Aiyy 项目，使用了Furion框架，
+> IIS扩展使用了是Cake.IIS
+
 ## 功能：
 > IIS里的那些设置都可以实现。
 * 添加网站
