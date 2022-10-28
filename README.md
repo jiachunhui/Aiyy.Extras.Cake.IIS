@@ -1,4 +1,5 @@
 # Aiyy.Extras.Cake.IIS
+> 公开库
 
 > 引用 Aiyy 项目，使用了Furion框架，
 > IIS扩展使用了是Cake.IIS
