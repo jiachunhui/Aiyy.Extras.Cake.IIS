@@ -110,6 +110,7 @@ demo
 	}
 ~~~
 
+> 更多使用实例，可查看，另一个项目 aiyy.workerservice
 
 ## 日志：
 
