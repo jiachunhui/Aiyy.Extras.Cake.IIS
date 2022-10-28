@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Version>0.0.1</Version>
+		<Description>Aiyy Cake.iis 拓展插件</Description>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Cake.Core" Version="2.2.0" />
+		<PackageReference Include="Cake.IIS" Version="1.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Aiyy\Aiyy.csproj" />
+	</ItemGroup>
+
+</Project>
